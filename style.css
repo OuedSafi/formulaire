@@ -1,0 +1,92 @@
+
+     /* @media screen and ( min-width: 400px) {
+        .dd{
+            background: white;
+        }
+        
+    }  */
+        .form-group{
+            color: white;
+        }
+    
+.container{
+    width: 350px;
+
+}
+
+.pp{
+    background: rgb(3, 182, 72) !important; 
+}
+#nom{
+    width: 350px;
+
+}
+
+#prenom{
+    width: 350px;
+
+}
+
+#date_naissance{
+    width: 350px;
+
+}
+
+#date_admission{
+    width: 350px;
+
+}
+#genre{
+    width: 350px;
+
+}
+
+#telephone{
+    width: 350px;
+
+}
+.zz{
+    background-color: brown;
+    text-align: center;
+    height: 80px;
+    color: white;
+}
+
+.rr{
+    color: brown;
+    text-align: center;
+    height: 50px;
+}
+.gg{
+    margin-left: 1150px;
+    margin-bottom: 25px;
+}
+.mp{
+    margin-left: 200px;
+    padding: 15px 15px;
+}
+.js{
+    height: 100px !important;
+    background-color: white;
+  
+    
+}
+.rr{
+   
+    color: brown;
+    text-align: center;
+    position: relative;
+    top: -135px;
+}
+.gg{
+    position: relative;
+    margin-left: 1150px;
+    top: -75px;
+}
+
+
+
+
+
+
+
